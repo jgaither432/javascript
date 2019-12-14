@@ -28,3 +28,6 @@ var car = {
     model: "500",
     color: "white"
 };
+
+// boolean
+// evrything with a real value is true 0, null, undefined is false
